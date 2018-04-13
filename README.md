@@ -9,10 +9,6 @@ Exemples :
 * "suite de mots" > "suiteDeMots"
 * "tExTE mAl fICHu" > "texteMalFichu"
 
-Tu peux connaître la longueur d'une chaîne avec la méthode length(), par exemple : machaine.length(), si machaine contient "abcd", retournera 4.
-
-Tu peux trouver le caractère d'une chaîne à une position particulière avec la méthode charAt(), par exemple : machaine.charAt(3) te donnera la quatrième lettre (car ça commence à zéro). Si machaine contient "abcd", le retour sera donc 'd'.
-
 Rappel des commande junit :
 
     javac -cp .:junit-4.12.jar CamelCaseTest.java
